@@ -1,6 +1,4 @@
-;Fighters History Dynamite
-;By Jed
-;
+
 	include "ng.constants.asm"
 	include "memoryloc.asm"
 
